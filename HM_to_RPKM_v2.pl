@@ -1,7 +1,6 @@
 use strict;
 
 ### This script uses a HashMatch output file and a file containing transcript sequences to generate RPKM values
-### T. Mockler
 
 # ARGV[0]
 # HashMatch output file
